@@ -1,0 +1,67 @@
+.font
+{
+font-size:27px;
+}
+body
+{
+background-color:#e066ff;
+}
+img
+{
+margin:90px 20px 10px 60px;
+}
+.paragraph
+{
+float:right;
+margin:40px 40px 40px 40px;
+font-size: 20px;
+font-family: sans-serif;
+}
+.fa
+{
+padding:10px;
+font-size:10px;
+width:15px;
+text-align:center;
+text-decoration:none;
+margin:5px 2px;
+}
+.fa:hover
+{
+opacity:0.7;
+}
+.fa-facebook
+{
+background:#3B5998;
+color:white;
+float:left;
+}
+.fa-twitter
+{
+background: #0084b4;
+color:white;
+float:left;
+}
+.fa-instagram
+{
+background: #cd486b;
+color:white;
+float:left;
+
+}
+.fa-youtube
+{
+background: #cd486b;
+color:white;
+float:left;
+}
+.media
+{
+margin:80px 30px 60px 60px;
+}
+h2
+{
+font-size:15px;
+font-family:monospace;
+margin:10px 10px 10px 60px;
+}
